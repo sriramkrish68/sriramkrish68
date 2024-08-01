@@ -18,7 +18,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am a `MTech Integrated Computer Science and Engineering` student at [VIT University](https://vit.ac.in/), driven by a passion for coding, problem-solving, and creative pursuits.
-- :trophy: I'm always seeking challenges and learning opportunities. My current focus is on **Full Stack Development, Machine Learning, and Web Development.** 
+- :trophy: I'm always seeking challenges and learning opportunities. My current focus is on **Full Stack Development, Artificial Intelligence, Machine Learning, and Web Development.** 
 - :boom:  Check out my portfolio website for a glimpse of my recent projects!  [https://github.com/sriramkrish68/Sriram-s-portfolio](https://github.com/sriramkrish68/Sriram-s-portfolio)
 - :email: Reach out to me at: [![Send me Email](https://img.shields.io/static/v1?label=email&message=sriramkrish379@gmail.com&color=EA4335&style=flat-square)](mailto:sriramkrish379@gmail.com)
 - :nerd_face: I believe in continuous learning and pushing boundaries in the world of technology.
